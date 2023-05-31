@@ -33,3 +33,5 @@ python build_exe.py
 
 Output in **dist** folder
 
+App sample ![app_sample](images/app_window.png)
+
